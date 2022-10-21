@@ -6,6 +6,7 @@
 
 h1 {
   background-color: gray;
+  color: white;
 }
 .skills {
   background-color: gray;
@@ -15,7 +16,7 @@ h1 {
 
 nav {
   padding: 14px 20px;
-  background-color: black;
+  background-color: gainsboro;
 }
 
 a {
