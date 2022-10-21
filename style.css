@@ -1,4 +1,4 @@
-* {
+/* * {
   box-sizing: border-box;
   background-color: white;
   font-family: Helvetica, sans-serif;
@@ -26,10 +26,9 @@ a {
 
 .menu {
   font-size: 20px;
-  /* height: 200px; */
   display: flex;
   justify-content: flex-start;
-  /* align-items: flex-start; */
+  /* align-items: flex-start;
   gap: 35px;
   flex-wrap: wrap;
 }
@@ -42,4 +41,11 @@ figcaption {
 
 img {
   width: 20%;
+} /* */
+
+* {
+  box-sizing: border-box;
+}
+div {
+  color: blue;
 }
