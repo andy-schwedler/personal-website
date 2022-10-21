@@ -12,3 +12,8 @@ h1 {
   display: flex;
   justify-content: space-evenly;
 }
+.menu {
+  font-size: 15px;
+  display: flex;
+  justify-content: flex-start;
+}
