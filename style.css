@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
-  /* border: 1px solid red;
-  border-style: dotted; */
+  border: 1px solid red;
+  border-style: dotted;
   background-color: grey;
   color: white;
   margin: 0;
@@ -37,4 +37,12 @@
 
 h1 {
   text-transform: capitalize;
+}
+
+footer {
+  display: flex;
+  position: absolute;
+  bottom: 0%;
+  left: 0;
+  font-style: italic;
 }
