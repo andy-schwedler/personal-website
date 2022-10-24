@@ -33,7 +33,6 @@ img {
 
 .portrait {
   display: flex;
-  align-content: center;
   position: relative;
 }
 
