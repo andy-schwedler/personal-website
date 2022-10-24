@@ -20,9 +20,19 @@
 .contact {
   display: flex;
   position: absolute;
-  right: 0em;
+  right: 2em;
   bottom: 0em;
   flex-direction: column;
   flex-wrap: wrap;
   gap: 2em;
+}
+
+.portrait {
+  display: flex;
+  align-content: center;
+  position: relative;
+}
+
+h1 {
+  text-transform: capitalize;
 }
