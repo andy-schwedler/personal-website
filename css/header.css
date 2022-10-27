@@ -1,11 +1,28 @@
+h1 {
+  margin: 1%;
+  position: relative;
+  text-align: center;
+  text-size-adjust: 1rem;
+}
+
 .portrait--container {
   border: 1px solid;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-h1 {
-}
-
-.portrait--picture {
-  width: 50px;
+.portrait--container__picture {
+  width: 200px;
   height: auto;
+  border-radius: 40%;
 }
+
+/* .portrait--picture {
+  width: 30%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */

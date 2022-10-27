@@ -1,0 +1,11 @@
+.contact--container {
+  display: flex;
+  bottom: 0px;
+  right: 0px;
+}
+
+.socialmedia__icon {
+  border-radius: 16px;
+  width: 90px;
+  height: auto;
+}
