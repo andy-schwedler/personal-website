@@ -1,0 +1,11 @@
+.portrait--container {
+  border: 1px solid;
+}
+
+h1 {
+}
+
+.portrait--picture {
+  width: 50px;
+  height: auto;
+}
