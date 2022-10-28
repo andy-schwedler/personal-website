@@ -36,8 +36,21 @@ body {
 }
 
 button {
+  display: block;
+  position: relative;
+
   color: black;
   -webkit-box-shadow: 5px 8px 25px 5px #000000;
   box-shadow: 5px 8px 25px 5px #000000;
-  margin: 20px;
+  margin: 5% 41% 5% 41%;
+}
+
+p {
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+h3 {
+  text-align: center;
 }

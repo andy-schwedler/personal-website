@@ -9,8 +9,9 @@ nav {
   display: flex;
   justify-content: space-around;
   padding-top: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
   width: 100vw;
-  margin-top: 0;
   background-color: white;
 }
 
