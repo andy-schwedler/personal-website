@@ -22,4 +22,5 @@ nav {
 .nav--container__item__button {
   text-decoration: none;
   font-size: 30px;
+  color: darkgray;
 }
