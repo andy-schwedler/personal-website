@@ -45,23 +45,25 @@
           esse quae assumenda a libero amet?
         </p>
       </section>
-      <div class="button--container">
-        <button type="button" class="main--button">Turn off the light</button>
-      </div>
-      <footer class="footer--container">
-        <a
-          href="/html/Impressum.html"
-          alt="Link zum Impressum"
-          class="footer--container__item"
-          >Impressum</a
-        >
-        <a
-          href="/index.html"
-          alt="Link zum Kontakt"
-          class="footer--container__item"
-          >Contact</a
-        >
-      </footer>
+      <section class="section--contact-me-container">
+        <form class="section--contact-me-container__form">
+          <fieldset>
+            <legend>Say Hi!</legend>
+            <label for="first-name">First name</label>
+            <input name="first-name" placeholder="who?" />
+            <label for="first-name">email</label>
+            <input name="email" type="email" placeholder="what´s your email" />
+            <label for="message">Your message</label>
+            <textarea
+              name="message"
+              type="text"
+              placeholder="...tell me"
+              width="auto"
+            ></textarea>
+            <button type="submit"
+          </fieldset>
+        </form>
+      </section>
     </main>
   </body>
 </html>
