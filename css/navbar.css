@@ -15,7 +15,7 @@ nav {
   margin-top: 0px;
   margin-bottom: 0px;
   width: 100vw;
-  background-color: white;
+  background-color: transparent;
 }
 
 .nav--container__item {
@@ -26,5 +26,5 @@ nav {
 .nav--container__item__button {
   text-decoration: none;
   font-size: 30px;
-  color: darkgray;
+  color: papayawhip;
 }
