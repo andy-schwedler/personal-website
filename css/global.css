@@ -7,7 +7,6 @@
 }
 
 * {
-  /* font-family: Andy; */
   box-sizing: border-box;
   /* border: 1px solid red; */
   border-style: solid 1px black;
@@ -16,6 +15,8 @@
 
 body {
   margin: 0px auto;
+  height: 100vh;
+  width: auto;
 }
 
 .main--container {
@@ -35,9 +36,6 @@ body {
     #ffffff 100%
   );
   background: linear-gradient(to bottom, #2e374f 0%, #2e374f 19%, #ffffff 100%);
-}
-
-.button--container {
 }
 
 button {
